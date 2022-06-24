@@ -48,5 +48,5 @@ npm run lint
 ```
 
 ### Padrão de CSS
-RSCSS
+RSCSS <br>
 Link de referência: https://willianjusten.com.br/falando-sobre-rscss

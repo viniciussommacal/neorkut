@@ -6,7 +6,7 @@
     <RouterLink to="/friends">Amigos</RouterLink>
     <RouterLink to="/groups">Comunidades</RouterLink>
   </nav>
-    <span>seu@email.com</span>
+    <span>seu@email.com.br</span>
     <RouterLink to="/logout">Sair</RouterLink>
     <HeaderSearch/>
   <nav>

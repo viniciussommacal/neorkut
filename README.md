@@ -49,3 +49,4 @@ npm run lint
 
 ### Padrão de CSS
 RSCSS
+Link de referência: https://willianjusten.com.br/falando-sobre-rscss
